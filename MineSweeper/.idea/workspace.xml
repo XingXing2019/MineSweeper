@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0a59d23-d1eb-44d8-a085-6a1ed1985253" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XPqZxT2WIPhIQXikdQAujTw6VG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JavaScript\MineSweeper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HTML.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MineSweeper/HTML.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.HTML.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0a59d23-d1eb-44d8-a085-6a1ed1985253" name="Default Changelist" comment="" />
+      <created>1580958136888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580958136888</updated>
+      <workItem from="1580958138150" duration="8839000" />
+      <workItem from="1580969225364" duration="4084000" />
+      <workItem from="1581135037959" duration="3000" />
+      <workItem from="1581206730218" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3024" y="186" key="#Inspections" timestamp="1580963266581">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3024" y="186" key="#Inspections/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580963266581" />
+    <state width="1047" height="344" key="GridCell.Tab.0.bottom" timestamp="1580973313113">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313113" />
+    <state width="1047" height="344" key="GridCell.Tab.0.center" timestamp="1580973313113">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313113" />
+    <state width="1047" height="344" key="GridCell.Tab.0.left" timestamp="1580973313111">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313111" />
+    <state width="1047" height="344" key="GridCell.Tab.0.right" timestamp="1580973313113">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313113" />
+    <state width="1047" height="344" key="GridCell.Tab.1.bottom" timestamp="1580973313114">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313114" />
+    <state width="1047" height="344" key="GridCell.Tab.1.center" timestamp="1580973313114">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313114" />
+    <state width="1047" height="344" key="GridCell.Tab.1.left" timestamp="1580973313113">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313113" />
+    <state width="1047" height="344" key="GridCell.Tab.1.right" timestamp="1580973313114">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313114" />
+    <state width="1047" height="344" key="GridCell.Tab.2.bottom" timestamp="1580973313114">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313114" />
+    <state width="1047" height="344" key="GridCell.Tab.2.center" timestamp="1580973313114">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313114" />
+    <state width="1047" height="344" key="GridCell.Tab.2.left" timestamp="1580973313114">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313114" />
+    <state width="1047" height="344" key="GridCell.Tab.2.right" timestamp="1580973313114">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1047" height="344" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580973313114" />
+    <state x="2010" y="47" width="761" height="1017" key="dock-window-1" timestamp="1581206731006">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2010" y="47" width="761" height="1017" key="dock-window-1/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581206731006" />
+    <state x="2730" y="2" width="761" height="1017" key="dock-window-2" timestamp="1581206731006">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2730" y="2" width="761" height="1017" key="dock-window-2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581206731006" />
+    <state x="2763" y="18" width="1085" height="1017" key="dock-window-3" timestamp="1580969338124">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2763" y="18" width="1085" height="1017" key="dock-window-3/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580969338124" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="nearBox" language="JavaScript" />
+        <watch expression="n" />
+        <watch expression="nearBox.length" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
